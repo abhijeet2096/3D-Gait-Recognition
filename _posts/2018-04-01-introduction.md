@@ -19,6 +19,9 @@ image: /assets/img/default.jpg
 # hide_description: true
 # hide_image: true
 
+# To enable comments on site
+
+comments: true
 # (Optional) Each post can have zero or more categories, and zero or more tags.
 # The difference is that categories will be part of the URL, while tags will not.
 # E.g. the URL of this post is <site.baseurl>/hydejack/2017/11/23/example-content/
@@ -29,4 +32,6 @@ tags: [firstpost, introduction]
 ---
 
 Write here Introduction !
+
+
 

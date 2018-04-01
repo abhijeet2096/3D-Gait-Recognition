@@ -265,3 +265,5 @@ sass:
 #   path:                atom.xml
 
 #--------------------------------------------------------------------
+# file: _config.yml
+disqus: <disqus shortname>
