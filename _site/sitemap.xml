@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://localhost:4000/hydejack-starter-kit/category/hydejack/</loc>
+<lastmod>2018-04-01T13:44:21+05:30</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/hydejack-starter-kit/tag/example/</loc>
+<lastmod>2018-04-01T13:44:21+05:30</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/hydejack-starter-kit/hydejack/2017/11/23/example-content/</loc>
+<lastmod>2017-11-23T00:00:00+05:30</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/hydejack-starter-kit/about/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/hydejack-starter-kit/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/hydejack-starter-kit/assets/bower_components/html5shiv/MIT%20and%20GPL2%20licenses/</loc>
+</url>
+</urlset>
