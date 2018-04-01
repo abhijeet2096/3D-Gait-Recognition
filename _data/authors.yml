@@ -3,32 +3,32 @@
 # You can change `author1` to your shortname.
 author1:
   # Replace <...> with your own (remove the < >)
-  name:              <firstname> <lastname>
-  email:             <mail@domain.tld>
+  name:              Abhijeet Sharma
+  email:             sharma.abhijeet2096@gmail.com
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-    Open `_data/authors.yml` to edit this text.
+    I am abhijeet sharma.I am an organised and efficient person with an enquiring mind. 
+    I am a flexible person seeking employment which will allow development, growth and make use of my existing skills. 
+    I am well organised with a clear and positive approach to problem solving. I am able to motivate and direct my talents and skills to meet objectives.
+    I am a good listener and learner, able to communicate well with a group and on an individual level.
 
   # This photo will be used in the about section.
   picture:
-    path:            https://placehold.it/128x128
+    path:            /assets/img/abhijeet.jpg
     # srcset is optional, but can be used to provide higher res versions for retina displays
-    srcset:
-      1x:            https://placehold.it/128x128
-      2x:            https://placehold.it/256x256
+    #srcset:
+     # 1x:            https://placehold.it/128x128
+      #2x:            https://placehold.it/256x256
 
   # Social media icons in sidebar.
   # Comment/uncommet to show/hide. Rearrange to change the order in which they appear.
   social:
-    twitter:         <username>
-    github:          <username>
-    download:        https://github.com/qwtel/hydejack-starter-kit/archive/master.zip
+    twitter:         SharmaJeKaBeta
+    github:          abhijeet2096
+    facebook:        Sharmajeekabeta
+    #download:        https://github.com/qwtel/hydejack-starter-kit/archive/master.zip
     # email:           mailto:<mail@domain.tld>
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
@@ -67,17 +67,33 @@ author1:
 
 # Another author
 author2:
-  name:              <firtname> <lastname>
-  email:             <mail@domain.tld>
+  name:              Mohit Sharma
+  email:             mohit21sharma.ms@gmail.com
   about:             |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-    Open `_data/authors.yml` to edit this text.
+    YO YO Honey Singh
   picture:           https://placehold.it/128x128
-  twitter:           <username>
-  github:            <username>
+  #twitter:           <username>
+  github:            mohitsharma1996
+  facebook:          profile.php?id=100009376469653&ref=br_rs
+
+  # Every author can have his/her own accent color and image.
+  # This will change the appearance of all pages of this author.
+  accent_color:      '#268bd2'
+  accent_image:
+    background:      '#202020'
+    overlay:         false
+
+# Another author
+author3:
+  name:              Akhil Singhal
+  email:             akhilsinghal1234@gmail.com
+  about:             |
+    Salman Ka Fan.
+
+  picture:           https://placehold.it/128x128
+  #twitter:           <username>
+  github:             akhilsinghal1234
+  facebook:           akhilsinghal1234
 
   # Every author can have his/her own accent color and image.
   # This will change the appearance of all pages of this author.

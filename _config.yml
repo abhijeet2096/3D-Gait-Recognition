@@ -15,14 +15,14 @@ url:                   https://abhijeet2096.github.io/3D-Gait-Recognition
 # When using GitHub Pages, set to '' when hosting a user- or organization page,
 # i.e. when the name of the repository looks like <username>.github.io.
 # Otherwise, set to /<name of repository> (with leading /, but without the < >).
-baseurl:               /3D-Gait-Recognition
+baseurl:               
 
 # Language of your content in 2-letter code, e.g.: en, de.
 # You may also provide a location, e.g.: en-us, de_AT.
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Hydejack Starter Kit
+title:                 3D Gait Recognition
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -33,8 +33,7 @@ description:           >
 
 # A shorter description for the sidebar.
 tagline:               >
-  A Jekyll theme with JavaScript powers.
-  Open `_config.yml` to edit this text.
+  Deep Learning Project based on 3D Gait Recognition
 
 # A list of keywords for your blog.
 keywords:              []
@@ -167,6 +166,7 @@ exclude:
 # ========================================================================================
 
 plugins:
+  - jekyll-paginate
   - jekyll-avatar
   - jekyll-default-layout
   - jekyll-feed
@@ -216,7 +216,17 @@ remote_theme: qwtel/hydejack@gem-7.5.0
 #   links:
 #     - https://twitter.com/<username>
 #     - https://github.com/<username>
-
+defaults:
+  - scope:
+      path: docs.md
+    values:
+      menu: true
+      order: 1
+  - scope:
+      path: about.md
+    values:
+      menu: true
+      order: 2
 
 # Other Plugins
 # ---------------------------------------------------------------------------------------
@@ -253,3 +263,5 @@ sass:
 # so that the location of the feed XML stays the same.
 # feed:
 #   path:                atom.xml
+
+#--------------------------------------------------------------------
