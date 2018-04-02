@@ -9,8 +9,8 @@ title: About
 # Write a short (~150 characters) description of each blog post.
 # This description is used to preview the page on search engines, social media, etc.
 description: >
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-  sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  DEEP LEARNING PROJECT ON
+  3D Gait Recognition on Embedded Devices
 
 # You can show the description on the page by deleting this line:
 hide_description: true
@@ -19,4 +19,5 @@ hide_description: true
 menu: true
 ---
 
-Write About page here!
+
+{% include about.html %}

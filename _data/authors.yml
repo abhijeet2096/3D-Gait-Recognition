@@ -67,10 +67,11 @@ author2:
   email:             mohit21sharma.ms@gmail.com
   about:             |
     Hi I am Mohit:D
-  picture:           https://placehold.it/128x128
+  picture:           /assets/img/mohit.jpeg
   #twitter:           <username>
-  github:            mohitsharma1996
-  facebook:          profile.php?id=100009376469653&ref=br_rs
+  social:
+    github:            mohitsharma1996
+    facebook:          profile.php?id=100009376469653&ref=br_rs
 
   # Every author can have his/her own accent color and image.
   # This will change the appearance of all pages of this author.
@@ -86,10 +87,31 @@ author3:
   about:             |
     Hi I am Akhil Singhal! 
 
-  picture:           https://placehold.it/128x128
+  picture:           /assets/img/akhil.jpeg
   #twitter:           <username>
-  github:             akhilsinghal1234
-  facebook:           akhilsinghal1234
+  social:
+    github:             akhilsinghal1234
+    facebook:           akhilsinghal1234
+
+  # Every author can have his/her own accent color and image.
+  # This will change the appearance of all pages of this author.
+  accent_color:      '#268bd2'
+  accent_image:
+    background:      '#202020'
+    overlay:         false
+
+# Another author
+author4:
+  name:              Mohit | Abhijeet | Akhil
+  email:             akhilsinghal1234@gmail.com
+  about:             |
+    This article is written by Mohit Sharma, Abhijeet Sharma
+     & Akhil Singhal.
+  picture:           /assets/img/grp.png
+  #twitter:           <username>
+  social:
+    github:             abhijeet2096/3D-Gait-Recognition
+    #facebook:           akhilsinghal1234
 
   # Every author can have his/her own accent color and image.
   # This will change the appearance of all pages of this author.
