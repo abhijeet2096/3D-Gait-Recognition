@@ -12,7 +12,7 @@ description: >
 
 # (Optional) Link to an image that represents your blog post.
 # The aspect ratio should be ~16:9.
-image: /assets/img/default.jpg
+image: /3D-Gait-Recognition/assets/img/default.jpg
 
 # You can hide the description and/or image from the output
 # (only visible to search engines) by setting:
@@ -44,13 +44,13 @@ Gait is the study of the human locomotion or in other words, it's the manner in 
 
 **Model-Based Approach** In this kind of approach specific parameters are identified and matched to get the desired result. It involves identifying mathematical constructs that represent discriminative gait features with some parameters. The parameters are grouped into spatiotemporal and kinematic. Spatio-temporal parameters include the step length and height (stride) speed and gait cycle time while the kinematics include the joint rotations and the angle between different joints. This approach reliably handles the occlusion, noise, scale etc which fails in the case of model-free approaches.
 
-![Figure 1: Model-free and Model-based approaches](/assets/img/post/img1.png)
+![Figure 1: Model-free and Model-based approaches](/3D-Gait-Recognition/assets/img/post/img1.png)
         *Figure 1: Model-free and Model-based approaches*
 
 # Problem Statement
 **3D-Gait-Recognition**  Creating a deep learning pipeline for the identification of the personby the manner of its walking i.e. using his/her gait features.
 
-![Figure 2: Gait Recognition](/assets/img/post/gait.png)
+![Figure 2: Gait Recognition](/3D-Gait-Recognition/assets/img/post/gait.png)
         *Figure 2: Gait Recognition*
 
 ## Dataset
@@ -61,7 +61,7 @@ The dataset consists of 3.6 million different human poses collected with 4 digit
 **Jetson Tx2** : 
 Jetson TX2 is the fastest, most power-efficient embedded AI computing device. The latest addition to the industry-leading Jetson embedded platform, this 7.5-watt supercomputer on a module brings true AI computing at the edge. It's built around an NVIDIA Pascal™-family GPU and loaded with 8 GB of memory and 59.7 GB/s of memory bandwidth. It features a variety of standard hardware interfaces that make it easy to integrate it into a wide range of products and form factors.
 
-![Figure 3: Jetson Tx2 Module](/assets/img/post/jetson.jpg)
+![Figure 3: Jetson Tx2 Module](/3D-Gait-Recognition/assets/img/post/jetson.jpg)
         *Figure 3: Jetson Tx2 Module*
 
 ## Pipeline
