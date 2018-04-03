@@ -80,3 +80,6 @@ Below is the proposed pipeline for the project :
 5. “https://developer.nvidia.com/embedded/buy/jetson-tx2.”
 6. N. N. R. A. Guler and I. Kokkinos,  “Densepose:  Dense human pose   estimation in thewild,” 2018.
 7. P. D. K. He, G. Gkioxari and R. G. M, “Mask rcnn,” 2017
+
+
+**Note**: PDF copy of this report can be found at [here](/3D-Gait-Recognition/reports/interim_progress_report.pdf)
