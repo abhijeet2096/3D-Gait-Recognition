@@ -2,11 +2,11 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://localhost:4000/category/hydejack/</loc>
-<lastmod>2018-04-03T00:09:12+05:30</lastmod>
+<lastmod>2018-04-03T09:49:11+05:30</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/tag/example/</loc>
-<lastmod>2018-04-03T00:09:12+05:30</lastmod>
+<lastmod>2018-04-03T09:49:11+05:30</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/introduction/2018/04/01/introduction/</loc>
